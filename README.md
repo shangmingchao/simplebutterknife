@@ -1,2 +1,2 @@
 # simplebutterknife
-Simple version of Butter Knife 
+The simplified version of the [Butter Knife](https://github.com/JakeWharton/butterknife)
